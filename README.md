@@ -1,4 +1,4 @@
-#yahoo天气
+# yahoo天气
 DOMAIN,m.yap.yahoo.com,REJECT
 DOMAIN,geo.yahoo.com,REJECT
 DOMAIN,doubleplay-conf-yql.media.yahoo.com,REJECT
