@@ -139,11 +139,11 @@ DOMAIN-SUFFIX,arearaw.com,美国中继接入 3
 DOMAIN-SUFFIX,googlevideo.com,🇺🇸 US
 DOMAIN-SUFFIX,ggpht.com,🇺🇸 US
 DOMAIN-KEYWORD,youtube,🇺🇸 US
+DOMAIN-KEYWORD,hentai,🇺🇸 US
 # 香港限定服务
 USER-AGENT,*tv-ios*,🇭🇰 HK
 DOMAIN-KEYWORD,tvb,🇭🇰 HK
 DOMAIN-KEYWORD,tvb,🇭🇰 HK
-DOMAIN-KEYWORD,hentai,🇭🇰 HK
 USER-AGENT,mytv*,🇭🇰 HK
 DOMAIN-SUFFIX,hk,🇭🇰 HK
 GEOIP,HK,🇭🇰 HK
